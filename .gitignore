@@ -5,5 +5,5 @@ build/
 coverage/
 config.json
 js-build/
-.idea
+idea/
 .env
