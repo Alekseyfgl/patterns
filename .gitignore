@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+package-lock.json
+build/
+coverage/
+config.json
+js-build/
+.idea
+.env
